@@ -1,11 +1,11 @@
 {
   "name": "test",
   "main": "test.js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "https://github.com/pinguo-luozhong/test",
   "license": "MIT",
   "dependencies": {
-    "notificate": "https://github.com/pinguo-luozhong/notification"
+    "notificate": "https://github.com/pinguo-luozhong/notification.git"
   },
   "ignore": [
     "**/.*",
