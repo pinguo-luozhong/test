@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "homepage": "https://github.com/pinguo-luozhong/test",
   "license": "MIT",
+  "dependencies": {
+    "testlz": "https://github.com/pinguo-luozhong/test"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
