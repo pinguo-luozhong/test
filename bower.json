@@ -1,11 +1,11 @@
 {
   "name": "test",
   "main": "test.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "https://github.com/pinguo-luozhong/test",
   "license": "MIT",
   "dependencies": {
-    "PGPromise": "https://github.com/pinguo-yangyang/PGPromise.git"
+    "notificate": "https://github.com/pinguo-luozhong/notification"
   },
   "ignore": [
     "**/.*",
