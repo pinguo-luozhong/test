@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "main": "test.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/pinguo-luozhong/test",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
