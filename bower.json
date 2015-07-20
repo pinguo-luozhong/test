@@ -5,7 +5,7 @@
   "homepage": "https://github.com/pinguo-luozhong/test",
   "license": "MIT",
   "dependencies": {
-    "notificate": "https://github.com/pinguo-luozhong/notification"
+    "notificate": "https://github.com/pinguo-luozhong/notification#~1.0.0"
   },
   "ignore": [
     "**/.*",
